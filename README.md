@@ -19,8 +19,8 @@ Livestock farmers often struggle with manual record-keeping of animal health, fe
   3. Enforce strict business and security rules using database triggers.
 
 ## 3. Data Source
-* **Dataset:** Cattle and Livestock Health Datasets (sourced via Kaggle and structured for educational database management use)[cite: 3].
-* **Characteristics:** Contains records on animal weights, feeding logs, and health histories without any personal identifiable information (PII) of real individuals[cite: 3].
+* **Dataset:** Cattle and Livestock Health Datasets (sourced via Kaggle and structured for educational database management use).
+* **Characteristics:** Contains records on animal weights, feeding logs, and health histories without any personal identifiable information (PII) of real individuals[cite: .
 
 ## 4. Planned Tables
 * **Farms & Pens:** Stores information about farm locations and housing units.
