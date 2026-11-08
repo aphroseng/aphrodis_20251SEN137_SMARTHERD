@@ -5,9 +5,9 @@
 **Course Title & Code:** Database Development with PL/SQL (INSY 8311)  
 **Instructor:** Dr. Eric Maniraguha  
 **Institution:** Adventist University of Central Africa (AUCA)  
-**Submission Date:** November 2026  
+  
 
----
+
 
 ## 1. Executive Summary & Problem Statement
 In many developing livestock sectors, farmers rely heavily on manual paper logbooks or informal tracking techniques to maintain records of herd health, feeding schedules, and veterinary consultations. This traditional record-keeping framework results in lost medical records, missed vaccination schedules, undetected disease outbreaks, and inaccurate yield projections. The absence of a structured database prevents automated decision-making and operational analytics.
