@@ -32,7 +32,7 @@ Livestock farmers often struggle with manual record-keeping of animal health, fe
 - **Process Purpose & Objectives:** To track animal registration, monitor health issues, automate notifications to veterinarians, and maintain accurate database records for livestock operations and management decision-making.
 - **Actors Involved:** Farmer, SmartHerd System (Database), and Veterinarian.
 - **Modeling Tool Used:** BPMN.io (demo.bpmn.io)
-- **Published Diagram Link:** [Insert your published BPMN diagram link here]
+- **Published Diagram Link:** [https://github.com/aphroseng/aphrodis_20251SEN137_SMARTHERD/blob/main/docs/business_process/diagram.pdf.svg]
 - **Supporting Documentation:** The detailed process explanation and diagram are stored in the repository under
   - `docs/business_process/business_process_diagram.pdf`
   - `docs/business_process/business_process_explanation.pdf`
