@@ -1,1 +1,27 @@
-
+Phase I: Business Process Explanation
+Project: SmartHerd: Modern Livestock Management & Veterinary Care System
+Student: Aphrodis Senga (ID: 20251SEN137) | Course: INSY 8311 - Database Development
+with PL/SQL
+1. Business Process Overview
+The selected business process for the SmartHerd system is Livestock Record-Keeping and
+Health Management. Its primary purpose is to establish an automated workflow for registering
+livestock, tracking daily health metrics, reporting illnesses, and coordinating veterinary care.
+This eliminates manual record-keeping errors, prevents delayed treatments, and provides reliable
+data for daily farm operations and management decision-making.
+2. Actors and Responsibilities
+ Farmer: Initiates the workflow by registering animals, logging routine health
+observations, submitting service requests for sick livestock, and updating general herd
+records.
+ SmartHerd System (Database): Acts as the automated core that validates user inputs,
+stores records in relational tables, evaluates health flags, and sends automated alerts to
+veterinarians.
+ Veterinarian: Reviews health notifications, assesses reported cases, determines if a
+physical visit is needed, and logs diagnoses and prescriptions back into the system.
+3. Process Flow & Database Operations
+1. Data Creation: The farmer logs livestock or health data into the system. The system
+validates the input and inserts new records into the database.
+2. Decision & Notification: A decision gateway checks if a health issue is flagged. If yes,
+the system automatically notifies the veterinarian.
+3. Assessment & Update: The veterinarian retrieves the animal's history, assesses the
+condition, and conducts a farm visit if required. The veterinarian then updates the
+treatment and prescription records in the database, closing the workflow.
